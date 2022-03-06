@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://www.linkedin.com/in/yaokun-lin-fsa-fcia-cera-00a20a199/
+- 📫 How to reach me: yaokun1@ualberta.ca
 
 <!---
 YaokunLin/YaokunLin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
